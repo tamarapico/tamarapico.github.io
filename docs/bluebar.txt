@@ -1,0 +1,11 @@
+<style>
+
+#menu-bar {
+
+background:  #e6f2ff;
+}
+#body {
+    background-color: lightblue;
+}
+
+</style>
