@@ -37,10 +37,10 @@ body a:hover{
     height: 55px;
     padding: 10px;
     font-size: 1em;
-    text-transform: uppercase;
+    /*-- text-transform: uppercase;--*/
     line-height: .9em;
     letter-spacing: 5px;
-    border: 1px solid;
+    /*-- border: 1px solid;--*/
 	margin:0.44em 0 0;
 }
 .navbar-default .navbar-brand {
